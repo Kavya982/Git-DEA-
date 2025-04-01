@@ -1,1 +1,1 @@
-I am kavya meda from AP came to chennai
+Git is an version control system and it is a command line tool.
