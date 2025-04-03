@@ -1,0 +1,6 @@
+numbers=(12,3,12,56,3,90,67,8,4)
+print("Tuple basic functions")
+print("Retrns the length of the tuple ",len(numbers))
+print(numbers.count(12))
+print(numbers.index(12))
+print(numbers)
