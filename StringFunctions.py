@@ -43,7 +43,7 @@ print("returs boolean if all the characters in the string are in lowecase : \n",
 print("--------------------------------")
 print("returns boolean if all the characters in the string are numbers,fractions,subscrits or superscripts : \n","12".isnumeric())
 print("--------------------------------")
-print("12".isnumeric())
+print("12".isdecimal())
 print("--------------------------------")
 print(st.isalnum())
 print("--------------------------------")
